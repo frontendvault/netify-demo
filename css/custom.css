@@ -1,0 +1,52 @@
+body {
+    font-family: 'Catamaran', sans-serif !important;
+}
+
+.container {
+    max-width: 1024px;
+}
+
+.blue-round-button {
+    -webkit-border-radius: 22px;
+    -moz-border-radius: 22px;
+    border-radius: 22px;
+    background: #00bbff;
+}
+.round-btn{     -webkit-border-radius: 22px;
+    -moz-border-radius: 22px;
+    border-radius: 22px;}
+
+.main-banner {
+    background: url(../img/hero-image@3x.png) no-repeat center center; background-size: cover;
+    margin-top: 80px;
+}
+
+.main-banner h1 {
+    color: #556267;
+    font-size: 45px;
+    line-height: 60px;
+}
+
+/* .banner-content {} */
+
+#supported-type {
+    background: #f2f5f7;
+}
+
+#footer {
+    background: #f2f5f7;
+}
+
+#footer ul li {
+    background: #f2f5f7;
+    list-style: none;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    background: #f2f5f7;
+    -webkit-border-radius: 20px !important;
+    -moz-border-radius: 20px !important;
+    border-radius: 20px !important;
+}
+
